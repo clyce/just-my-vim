@@ -58,7 +58,7 @@ set enc=utf-8
 set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
 set langmenu=zh_CN.UTF-8
 language message zh_CN.UTF-8
-set guifont=Inconsolata-dz\ for\ Powerline\ 9 
+set guifont=Inconsolata-dz\ for\ Powerline\ 7
 set helplang=cn
 set ambiwidth=double
 
